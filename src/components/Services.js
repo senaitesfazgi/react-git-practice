@@ -6,13 +6,12 @@ class Services extends React.Component
     {
         return(
             <>
-            <p>
-                Branches help us work with teams;
-                &nbsp;
-                maintaianing the integrity of 
-                &nbsp;
-                commit history
-            </p>
+            <p>We offer many great services like</p>
+                <ul>
+                    <li>Cool Website designs</li>
+                    <li>We make apps</li>
+                    <li>We design systems</li>
+                </ul>
             </>
         )
     }
