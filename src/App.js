@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Git Branching / Merge Practice</h1>
-      <p>Let's practice git branching and merging</p>
+      <p>Let's practice some git branching and merging</p>
       <About/>,
     </div>
 
